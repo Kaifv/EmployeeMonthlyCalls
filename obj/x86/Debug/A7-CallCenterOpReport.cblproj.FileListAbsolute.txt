@@ -1,0 +1,6 @@
+D:\Semester 4\MAFD4202\Assignemtn 7\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe
+D:\Semester 4\MAFD4202\Assignemtn 7\ConsoleApplication1\bin\x86\Debug\A7.idy
+D:\Semester 4\MAFD4202\Assignemtn 7\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Semester 4\MAFD4202\Assignemtn 7\ConsoleApplication1\obj\x86\Debug\A7.idy
+D:\Semester 4\MAFD4202\Assignemtn 7\ConsoleApplication1\obj\x86\Debug\A7.obj
+D:\Semester 4\MAFD4202\Assignemtn 7\ConsoleApplication1\obj\x86\Debug\Program1.obj
